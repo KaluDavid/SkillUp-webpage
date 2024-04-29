@@ -1,3 +1,4 @@
+/*Body*/
 body {
     background: #FFF;
     background-image: url('images/curve.png');
@@ -9,7 +10,6 @@ body {
     margin: 0;
     padding:0 ;
     box-sizing: border-box;
-
 overflow-x: hidden;
 white-space-collapse:collapse;
 white-space: inherit;
